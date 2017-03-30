@@ -11,11 +11,11 @@
 
 ### Objectifs : 
 - Créer un chat avec socket.io,
-- Stocker les informations l'utilisateur connecter dans le local storage,
-- Générer aléatoirement un avatar et une couleur pour chaque utilisateur
+- Stocker les informations de l'utilisateur connecter dans le localStorage,
+- Générer aléatoirement un avatar et une couleur pour chaque utilisateur.
 
 
-## Bonus : 
+## Bonus :
 - Intégrer une commande qui va lancer une vidéo youtube ou qui va afficher un gif aléatoirement. (ex : /v url_vidéo ou /giphy chatons)
 - Système authentification avec mot de passe 
 - Stocker tout les utilisateurs dans un fichier JSON
